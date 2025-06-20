@@ -1,0 +1,8 @@
+[package]
+name = "zonst"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gnuplot = "0.0.46"
+num-complex = "0.4.6"
