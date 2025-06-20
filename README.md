@@ -21,10 +21,10 @@ The python demos make use of numpy and matplotlib, e.g. install locally with the
 ```
 
 * DFT 1.0: [Discrete Fourier Transform](READMEdft.md)
-* DFT5_01a: [Similarity Theorem](READMEdft01a.md)
-* DFT5_01b: [Addition Theorem](READMEdft01b.md)
-* DFT5_01c: [Shifting Theorem](READMEdft01c.md)
-* DFT5_01d: [Stretching Theorem](READMEdft01d.md)
+* DFT5_01a: [Similarity Theorem](READMEdft5_01a.md)
+* DFT5_01b: [Addition Theorem](READMEdft5_01b.md)
+* DFT5_01c: [Shifting Theorem](READMEdft5_01c.md)
+* DFT5_01d: [Stretching Theorem](READMEdft5_01d.md)
 * FFT8_01
 * FFT8_02
 * FFT8_10a
