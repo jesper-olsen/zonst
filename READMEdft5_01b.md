@@ -4,14 +4,10 @@ Addition Theorem
 Run
 ---
 
-This demo shows how changing the width of a time-domain pulse affects its frequency-domain spectrum.
-
-Below widths of 16, 8, 4, 2 and 1 are illustrated.
+Demonstration that the transform of the sum of two signals is the sum of their individual transforms.
 
 ```
 uv run dft5_02a.py
-
-
 
 
      MAIN MENU
