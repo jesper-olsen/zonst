@@ -5,7 +5,7 @@ Run
 ---
 
 The demo shows the result of approximating a square wave with a number of fourier terms.
-The approximation is getting increasingly more accurate when more terms are added..
+The approximation is getting increasingly more accurate as more terms are added.
 
 Edit the source code to experiment with a few other input signals...
 
