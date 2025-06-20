@@ -25,6 +25,6 @@ The python demos make use of numpy and matplotlib, e.g. install locally with the
 * DFT5_01b: [Addition Theorem](READMEdft5_01b.md)
 * DFT5_01c: [Shifting Theorem](READMEdft5_01c.md)
 * DFT5_01d: [Stretching Theorem](READMEdft5_01d.md)
-* FFT8_01
-* FFT8_02
-* FFT8_10a
+* FFT8_01: fft
+* FFT8_02: fft
+* FFT8_10a: fft + inverse fft
