@@ -11,7 +11,7 @@ References
 DEMOS
 -----
 
-The gwbasic demos are in the [bas](bas) - some fixes, but mostly the same as in the book.
+The gwbasic demos are in [bas](bas) - some fixes, but mostly the same as in the book.
 
 The python demos make use of numpy and matplotlib, e.g. install locally with the [uv](https://github.com/astral-sh/uv) package manager before running them individually:
 
